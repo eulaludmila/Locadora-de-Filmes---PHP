@@ -21,7 +21,7 @@ Projeto realizado com alinguagem de programação PHP e utiliazação do MYSQL 8
 
 - Com o servidor já ligado e tudo certo. Vá na url de qualquer navegador e digite o seguinte comando:
 
-![url](https://user-images.githubusercontent.com/47863213/69901804-20bb6c80-1365-11ea-9b4c-f5342b10ab76.png)
+![url](https://user-images.githubusercontent.com/47863213/69902044-e8695d80-1367-11ea-8c02-1cf17a87325d.png)
 
 **TER ACESSO AO CMS**
 
